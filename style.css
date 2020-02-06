@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    background: url('https://unsplash.com/photos/N_Y88TWmGwA') center no-repeat;
+    background: darkcyan;
     background-size: cover;
     min-height: 100vh;
     display: flex;
